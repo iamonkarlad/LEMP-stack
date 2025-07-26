@@ -7,7 +7,8 @@
 - **E** - Nginx : High performance web server 
 - **M** - MySQL : Database server to database management
 - **P** - PHP   : Server side scripting language,to process dynamic content
-
+# LEMP Stack diagram
+![alt text](<image/Image Jul 26, 2025, 11_38_22 PM.png>)
 This Project Shows :
 1. How to create a Nginx server 
 2. How to create PHP server
